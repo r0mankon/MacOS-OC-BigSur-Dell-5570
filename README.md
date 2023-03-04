@@ -23,7 +23,7 @@ What is not working:
 - Wifi/Bluetooth (Ethernet is working perfectly)
 - Brightness control (F11 & F12)
 
-Follow the Official OpenCore guide on [Dortania](https://dortania.github.io/getting-started/) then you can use my EFI files and config.
+Follow the Official OpenCore guide on [Dortania](https://dortania.github.io/getting-started/) then you can use my EFI files and config. [work in progress]
 
 Happy hackintoshing :)
 
