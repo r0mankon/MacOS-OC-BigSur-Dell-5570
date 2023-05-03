@@ -13,13 +13,13 @@ Laptop specifications:
 
 What is working: 
 - Graphics acceleration
+- HDMI, External Display
 - Audio/microphone/audio control
 - Trackpad
-- Battery Managment
+- Battery management
 - And everything else
 
 What is not working: 
-- Sleep
 - Wifi/Bluetooth (Ethernet is working perfectly)
 - Brightness control (F11 & F12)
 
